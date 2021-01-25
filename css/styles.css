@@ -65,3 +65,11 @@ body{
     text-align:center;
     padding-left: 15%;
 }
+
+.btn-group   {
+    background-color: red;
+}
+
+.btn-group .active   {
+    background-color: green;
+}
